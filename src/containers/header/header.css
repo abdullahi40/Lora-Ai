@@ -50,6 +50,7 @@
   border: 2px solid var(--colo-footer);
   padding: 0 1rem;
   outline: none;
+  color: #fff;
 }
 
 .lora__header-content__input button {
